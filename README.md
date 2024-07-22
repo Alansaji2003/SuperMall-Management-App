@@ -63,8 +63,8 @@ SuperMall Management System is a web application designed to facilitate merchant
    - Add your Firebase configuration to the project.
 
 4. Set up environment variables:
-   - Create a `.env` file in the root of your project.
-   - Add your Firebase configuration and any other required environment variables.
+   - Go to scripts/firebaseConfig.js
+   - Add your Firebase configuration details there.
 
     ```env
     apiKey: "",
